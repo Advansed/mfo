@@ -1,0 +1,7 @@
+{
+  "name": "mfo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
