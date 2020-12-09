@@ -1,0 +1,31 @@
+.card {
+    margin: auto;
+    margin-bottom: 5px;
+    width: 100%;
+    min-height: 50px
+}
+
+.card-1 {
+    margin: auto;
+    margin-bottom: 5px;
+    width: 100%;
+    min-height: 200px
+}
+
+.f-12{
+    font-size: 1.0em !important
+}
+
+.a-center {
+    text-align: center;
+}
+.a-right {
+    text-align: right;
+}
+
+.IonItem{
+    border-top: 1px solid lightgray;
+}
+
+
+  
